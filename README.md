@@ -6,7 +6,7 @@ Este proyecto es una aplicación básica desarrollada en Android Studio utilizan
 
   * Un **calendario** para selección de fechas.
   * Un **campo de texto** para ingresar información.
-  * Un **checkbox**, que al marcarlo muestra un mensaje tipo *Toast* con el contenido del campo de texto al presionar el botón "Imprimir".
+  * Un **checkbox**, que al marcarlo muestra un mensaje tipo *Toast* con el contenido del campo de texto al presionar el botón "Imprimir", la hora y fecha actual.
 
 * **Segunda pantalla:**
 
