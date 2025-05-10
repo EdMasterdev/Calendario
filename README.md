@@ -16,3 +16,6 @@ Este proyecto es una aplicación básica desarrollada en Android Studio utilizan
 
 Esta aplicación es una introducción al desarrollo en Android, enfocada en el manejo de elementos básicos de la interfaz y la navegación entre actividades.
 #Capturas de pantalla
+
+### Pantalla de Inicio de Sesión
+![Pantalla calendario](./screenshots/lab1_1.png)
