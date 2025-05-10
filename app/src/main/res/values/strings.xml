@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Miapp</string>
+    <string name="button">Button</string>
+    <string name="eduardo_maestre">Eduardo Maestre</string>
+    <string name="Hola">TextView</string>
+    <string name="imprimir">Imprimir</string>
+    <string name="buttonSalir">Salir</string>
+</resources>
